@@ -31,4 +31,4 @@ pip3 install -r requirements.txt
 ```
 jupyter notebook Iris Flowers Classification.ipynb
 ```
-##### Run all cells to see the data exploration, model training, and classification results.
+##### Run all cells to see the data exploration and concepts notebooks
